@@ -17,7 +17,7 @@ Smart Scope is an advanced defect detection system designed to identify and clas
    ```bash
    git clone https://github.com/swetharanga/smart-scope.git
    cd smart-scope
-2. ** Set up virtual env
+2. **Set up virtual env
 
    ```bash
    pip install -r requirements.txt
