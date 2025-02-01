@@ -6,7 +6,7 @@ Smart Scope is an advanced defect detection system designed to identify and clas
 ## Features
 - High-resolution image capture using USB microscope
 - Preprocessing pipeline for image standardization and quality control
-- Deep learning model based on EfficientNetB0 for defect classification
+- Deep learning model for defect classification
 - Real-time defect detection and visualization
 - User-friendly interface for system interaction and result display
 
@@ -17,7 +17,7 @@ Smart Scope is an advanced defect detection system designed to identify and clas
    ```bash
    git clone https://github.com/swetharanga/smart-scope.git
    cd smart-scope
-2. **Set up virtual env
+2. **Set up virtual env**
 
    ```bash
    pip install -r requirements.txt
